@@ -12,6 +12,7 @@ In the expression entered by users,
 2.	Check for space(s) between digits of a number
 3.	Check for uneven number of parentheses
 4.	Check for errors:
+
 4.1	(/
 4.2	(*
 4.3	()
